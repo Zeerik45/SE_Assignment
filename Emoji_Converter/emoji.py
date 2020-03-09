@@ -4,8 +4,7 @@ message1=message.split(" ")
 emojis={
     ':)':'😊',
     ':(':'😥',
-    ':-)':'😁',
-    ':-(':'😒',
+   
 }
 output=''
 for i in message1:
