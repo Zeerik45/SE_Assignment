@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8026726f-db25-4149-9e9b-89e83e5d17a3" name="Default Changelist" comment="" />
+    <list default="true" id="8026726f-db25-4149-9e9b-89e83e5d17a3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/emoji.py" beforeDir="false" afterPath="$PROJECT_DIR$/emoji.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1YsRGdvBkpa4A9372FxbvBLEjoZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,6 +22,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="emoji" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -24,9 +33,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="F:\python project\venv\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/emoji.py" />
@@ -70,21 +79,41 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1511" height="197" key="GridCell.Tab.0.bottom" timestamp="1583729374396">
-      <screen x="0" y="0" width="1536" height="819" />
+    <state x="402" y="0" key="#emoji" timestamp="1583730732059">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
+    <state x="402" y="0" key="#emoji/0.0.1366.738@0.0.1366.738" timestamp="1583730732059" />
+    <state x="463" y="125" key="FileChooserDialogImpl" timestamp="1583730698369">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="125" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1583730698369" />
+    <state width="1345" height="182" key="GridCell.Tab.0.bottom" timestamp="1583731099930">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1583731099930" />
     <state width="1511" height="197" key="GridCell.Tab.0.bottom/0.0.1536.819@0.0.1536.819" timestamp="1583729374396" />
-    <state width="1511" height="197" key="GridCell.Tab.0.center" timestamp="1583729374396">
-      <screen x="0" y="0" width="1536" height="819" />
+    <state width="1345" height="182" key="GridCell.Tab.0.center" timestamp="1583731099930">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
+    <state width="1345" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1583731099930" />
     <state width="1511" height="197" key="GridCell.Tab.0.center/0.0.1536.819@0.0.1536.819" timestamp="1583729374396" />
-    <state width="1511" height="197" key="GridCell.Tab.0.left" timestamp="1583729374396">
-      <screen x="0" y="0" width="1536" height="819" />
+    <state width="1345" height="182" key="GridCell.Tab.0.left" timestamp="1583731099926">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
+    <state width="1345" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1583731099926" />
     <state width="1511" height="197" key="GridCell.Tab.0.left/0.0.1536.819@0.0.1536.819" timestamp="1583729374396" />
-    <state width="1511" height="197" key="GridCell.Tab.0.right" timestamp="1583729374396">
-      <screen x="0" y="0" width="1536" height="819" />
+    <state width="1345" height="182" key="GridCell.Tab.0.right" timestamp="1583731099930">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
+    <state width="1345" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1583731099930" />
     <state width="1511" height="197" key="GridCell.Tab.0.right/0.0.1536.819@0.0.1536.819" timestamp="1583729374396" />
+    <state x="184" y="12" key="SettingsEditor" timestamp="1583730716918">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="12" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1583730716918" />
+    <state x="379" y="194" key="com.intellij.ide.util.TipDialog" timestamp="1583730685460">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="379" y="194" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1583730685460" />
   </component>
 </project>
